@@ -289,4 +289,4 @@ Python Coding Examples from Simple to Complex
 
 ***
 
-> <i>Paul A. Gagniuc. Coding Examples from Simple to Complex - Applications in Python, Springer, 2024, pp. 1-245.</i>
+> <i>Paul A. Gagniuc. Coding Examples from Simple to Complex - Applications in Python. Synthesis Lectures on Computer Science. Springer International Publishing, 2024, pp. 1-245.</i>
