@@ -1,8 +1,6 @@
-# Python-Coding-Examples-from-Simple-to-Complex
-Python Coding Examples from Simple to Complex
+# Python Coding Examples from Simple to Complex
 
-
-# Python Programming Examples - Table of Contents
+# Table of Contents (Python)
 
 ## 1. Introduction
 - 1.1 Future of Python
