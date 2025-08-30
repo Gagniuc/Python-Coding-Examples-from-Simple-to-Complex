@@ -2,6 +2,22 @@
 
 This book offers a structured journey through the foundations and applications of programming in Python, progressing from simple constructs to advanced examples. It begins with an introduction to Python’s role in the future of computing and the advantages of working with native features, before moving on to the essentials of variables, assignments, and basic operations. Conditional branching and loop structures are explored in detail, showing not only their syntax but also their logical role in algorithm design. Arrays and lists are presented as dynamically resizable structures, leading naturally into the traversal and manipulation of multidimensional data. A dedicated section on matrix operations expands these ideas toward higher-level mathematical and algorithmic tasks. The book then addresses the creation and use of functions, including recursion and composition, and transitions into object-oriented concepts and JSON data structures. Moderate examples build on this knowledge with sorting, permutations, statistics, and various conversions, preparing the ground for complex applications such as signal analysis, logic gate simulations, and island detection in matrices. The final chapters highlight randomness, Markov chains, and Python-specific utilities like file I/O, GUIs, and HTTP requests. With 227 worked examples, the text illustrates how simple ideas evolve into complex solutions, providing both conceptual clarity and practical guidance for learners and practitioners alike.
 
+> **Note:** The repositories below showcase a few demo algorithmic implementations drawn from the total of 227 algorithms presented in  
+> *Coding Examples from Simple to Complex - Applications in Python. Synthesis Lectures on Computer Science* (Springer International Publishing, 2024).
+> You may find these standalone implementations insightful:  
+> - [Ex. (85) - Horizontal chart with UTF characters proportional with max array](https://github.com/Gagniuc/Native-horizontal-chart-made-from-text)  
+> - [Ex. (94) - 3D traversal with one for-loop using only arithmetic operators](https://github.com/Gagniuc/Arithmetic-loop-traversal-of-3D-arrays)  
+> - [Ex. (140) - A simple scanner to find the output distribution](https://github.com/Gagniuc/A-simple-scanner-to-find-the-output-distribution)  
+> - [Ex. (189) - Low level native sort and eliminate duplicates (I)](https://github.com/Gagniuc/Low-level-native-sort-and-eliminate-duplicates)  
+> - [Ex. (195) - Average, standard deviation and coefficient of variation](https://github.com/Gagniuc/Average-Standard-deviation-and-Coefficient-of-variation)  
+> - [Ex. (196) - Pearson correlation coefficient](https://github.com/Gagniuc/Pearson-correlation-coefficient)  
+> - [Ex. (198) - Vertical chart from array with random values at each run](https://github.com/Gagniuc/Vertical-chart-from-array-with-random-values-at-each-run)  
+> - [Ex. (209) - The general logic gate based on a map](https://github.com/Gagniuc/The-general-logic-gate-based-on-a-map)  
+> - [Ex. (210) - Decompose a matrix into multiple matrices based on unique values](https://github.com/Gagniuc/Decompose-a-matrix-into-multiple-matrices-based-on-unique-values)  
+> - [Ex. (213) - Count islands and calculate their percentage coverage](https://github.com/Gagniuc/Count-islands-and-calculate-their-percentage-coverage)  
+
+***
+
 # Table of Contents (Python)
 
 ## 1. Introduction
