@@ -305,3 +305,11 @@ This book offers a structured journey through the foundations and applications o
 ***
 
 > <i>Paul A. Gagniuc. Coding Examples from Simple to Complex - Applications in Python. Synthesis Lectures on Computer Science. Springer International Publishing, 2024, pp. 1-245.</i>
+
+***
+
+<div align="center">
+  <img src="https://github.com/Gagniuc/Python-Coding-Examples-from-Simple-to-Complex/blob/main/img/python.png" alt="Coding Examples from Simple to Complex">
+</div>
+
+***
